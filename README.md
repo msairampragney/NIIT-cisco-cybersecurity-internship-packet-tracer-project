@@ -1,12 +1,18 @@
 # NIIT–Cisco Cybersecurity Internship — Packet Tracer Project
 
+![NIIT–Cisco Cybersecurity Internship Certificate](./internship-certificate.png)
+
+[View or Download Original Internship Certificate (PDF)](./internship%20certificate%20niit.pdf)
+
+---
+
 ## Overview
 
 This repository documents the networking and cybersecurity activities completed as part of the **NIIT Foundation + Cisco Cybersecurity Internship**. The work was carried out using **Cisco Packet Tracer** and focuses on practical, hands-on networking and cybersecurity concepts, including WAN configuration, wireless network security, and access control.
 
 ## Internship Context
 
-As part of the NIIT Foundation + Cisco Cybersecurity Internship, several practical activities were completed using Cisco Packet Tracer to simulate real-world networking and security scenarios. This repository contains the documentation and project file for one of the core activities completed during the internship.
+As part of the NIIT Foundation + Cisco Cybersecurity Internship, several practical activities were completed using Cisco Packet Tracer to simulate real-world networking and security scenarios. This repository contains the documentation, internship certificate, and project files for one of the core activities completed during the internship.
 
 ## Organisation Network Security
 
@@ -16,15 +22,17 @@ As part of the NIIT Foundation + Cisco Cybersecurity Internship, several practic
 
 ## Objectives
 
-- Configure WAN connectivity for the organization's network
-- Set up a secure wireless network using industry-standard encryption
-- Restrict wireless access to authorized devices only
-- Secure router administrative access
-- Verify network connectivity and confirm that unauthorized access is blocked
+- Configure WAN connectivity for the organization's network.
+- Set up a secure wireless network using industry-standard encryption.
+- Restrict wireless access to authorized devices only.
+- Secure router administrative access.
+- Verify network connectivity and confirm that unauthorized access is blocked.
 
 ## Network Topology
 
-<img src="./packet-tracer-topology.png" width="720" alt="Cisco Packet Tracer Network Topology">
+The following image shows the network topology designed and configured using Cisco Packet Tracer.
+
+![Cisco Packet Tracer Network Topology](./packet-tracer-topology.png)
 
 ## WAN Configuration
 
@@ -47,22 +55,22 @@ As part of the NIIT Foundation + Cisco Cybersecurity Internship, several practic
 
 ## MAC Address Filtering
 
-- Enabled MAC address filtering on the wireless router
-- Configured the router to permit only authorized employee devices
-- Verified that an unauthorized/intruder device was prevented from accessing the wireless network
+- Enabled MAC address filtering on the wireless router.
+- Configured the router to permit only authorized employee devices.
+- Verified that an unauthorized device was prevented from accessing the wireless network.
 
 ## Router Administration
 
-- Changed the default router management password to a new, secure password
-- Router administrator password is not disclosed in this repository (see [Security Note](#security-note))
+- Changed the default router management password to a new, secure password.
+- The router administrator password is not disclosed in this repository (see [Security Note](#security-note)).
 
 ## Verification
 
-- Connected authorized employee devices to the wireless network
-- Verified network connectivity for authorized devices
-- Confirmed that the unauthorized device could not access the wireless network
-- Tested access to `www.cisco.com` from an employee workstation
-- Completed the Packet Tracer activity with **100% completion**
+- Connected authorized employee devices to the wireless network.
+- Verified network connectivity for authorized devices.
+- Confirmed that the unauthorized device could not access the wireless network.
+- Tested access to `www.cisco.com` from an employee workstation.
+- Completed the Packet Tracer activity with **100% completion**.
 
 ## Security Note
 
@@ -83,7 +91,7 @@ This is a public repository. The actual wireless credentials and router administ
 
 | File | Description |
 |---|---|
-| `Organisation-Network-Security.pka` | Cisco Packet Tracer activity file containing the network topology and configurations. Open with Cisco Packet Tracer to view and interact with the configured network. |
+| `Organisation-Network-Security.pka` | Cisco Packet Tracer activity file containing the network topology and configurations. Open it with Cisco Packet Tracer to view and interact with the configured network. |
 
 ## Repository Contents
 
@@ -91,13 +99,17 @@ This is a public repository. The actual wireless credentials and router administ
 README.md
 Organisation-Network-Security.pka
 packet-tracer-topology.png
+internship-certificate.png
+internship certificate niit.pdf
 ```
 
 | File | Description |
 |---|---|
-| `README.md` | Project documentation (this file) |
+| `README.md` | Project documentation |
 | `Organisation-Network-Security.pka` | Cisco Packet Tracer project file |
 | `packet-tracer-topology.png` | Screenshot of the network topology from Packet Tracer |
+| `internship-certificate.png` | Certificate image displayed in this README |
+| `internship certificate niit.pdf` | Original internship certificate in PDF format |
 
 ## Internship Information
 
