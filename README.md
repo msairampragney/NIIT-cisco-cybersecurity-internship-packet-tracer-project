@@ -1,6 +1,8 @@
 # NIIT–Cisco Cybersecurity Internship — Packet Tracer Project
 
-![NIIT–Cisco Cybersecurity Internship Certificate](./internship-certificate.png)
+<p align="center">
+  <img src="./internship%20certificate.png" alt="NIIT–Cisco Cybersecurity Internship Certificate" width="700"/>
+</p>
 
 [View or Download Original Internship Certificate (PDF)](./internship%20certificate%20niit.pdf)
 
@@ -99,7 +101,7 @@ This is a public repository. The actual wireless credentials and router administ
 README.md
 Organisation-Network-Security.pka
 packet-tracer-topology.png
-internship-certificate.png
+internship certificate.png
 internship certificate niit.pdf
 ```
 
@@ -108,7 +110,7 @@ internship certificate niit.pdf
 | `README.md` | Project documentation |
 | `Organisation-Network-Security.pka` | Cisco Packet Tracer project file |
 | `packet-tracer-topology.png` | Screenshot of the network topology from Packet Tracer |
-| `internship-certificate.png` | Certificate image displayed in this README |
+| `internship certificate.png` | Internship certificate image displayed in this README |
 | `internship certificate niit.pdf` | Original internship certificate in PDF format |
 
 ## Internship Information
